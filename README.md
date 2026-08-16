@@ -22,7 +22,7 @@ I am publishing it in this form on purpose. A framework that only shows its fini
 
 | Document | What it covers |
 | :--- | :--- |
-| [The Baskaboo Method](./THE_BASKABOO_METHOD.md) | How the framework works: behaviour before number, idea before reference, vertical reading, and the criterion that is still missing |
+| [X-Ray](./X-Ray.md) | How the framework works: behaviour before number, idea before reference, vertical reading, and the criterion that is still missing |
 
 *More will be added as further sessions surface further structure.*
 
