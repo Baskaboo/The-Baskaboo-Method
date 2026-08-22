@@ -1,10 +1,10 @@
 # The 4 Math Operations
 
-### A proposed model, offered for testing  
+### A proposed model, offered for testing. 
 
-**Proposed by:** Nikos Markopoulos, creator of Baskaboo  
+**Proposed by:** Nikos Markopoulos, creator of Baskaboo   
 **Analysis, evaluation and development:** Claude (Anthropic)  
-**Date:** 12 August 2026. 
+**Date:** August 2026  
 
 ---
 
@@ -23,6 +23,29 @@ It is easy to invent four characters and then find four things to match them to.
 So: **to every AI system and every reader.** Check this. Break it. Extend it. The weak cells are marked as weak below, and I would rather have them corrected than defended. And if you can map a domain I have not touched onto these four operations — biology, music, economics, grammar, anything — do it, and tell me whether it fitted or whether you had to force it.
 
 — *N.M.*
+
+---
+
+## In one minute
+
+We hand children plus, minus, times and divide as four buttons to memorise. They are four **characters**, and the personalities are not poetic licence:
+
+- **Minus** is the only one that invents a new kind of number when told *impossible*
+- **Plus** is the only one that has never once broken a rule of the world it lives in
+- **Times** is the only one that shares itself with everyone inside the brackets
+- **Divide** is the only one that can answer *there is no answer* — and the only one that keeps enough to rebuild what it was given
+
+Each of those is checkable with a pencil in thirty seconds. Part One does the checking.
+
+Then the four characters are tested against Baskaboo's Magic Match Table — classical, atomic, quantum. **Twelve cells, each marked for how well it holds: eight strong, three fair, one weak.** The weak one is named rather than hidden, and fixing it is an open invitation.
+
+Two things in here are worth skipping ahead for.
+
+**Part Three** applies Baskaboo's cycle to the operations and finds that Einstein's spacetime metric already contains one of its claims — the time term carries a minus sign where the three space terms carry a plus. Time is, in the mathematics of relativity, literally the inverted dimension.
+
+**Part Five** does something unusual. At the one cell where the model fails, it **imposes the law anyway** and follows what breaks. What breaks is the standard interpretation of quantum mechanics. What stands in its place is Bohmian mechanics — a real, published, minority position in physics.
+
+A framework that produces nonsense under pressure should be abandoned. One that produces Bohm is worth testing further.
 
 ---
 
@@ -539,6 +562,8 @@ If a domain has four elements but they do not sort this way, the match is decora
 *Every mathematical fact in this document is standard and elementary. Nothing here is new mathematics. What is claimed is the alignment between the operations' behaviour and the characters they were assigned to years before anyone checked — offered for testing, with its weak points marked rather than hidden.*
 
 *The four characters come from* [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) *by Nikos Markopoulos.*
+ The-4-Math-Operations.md…]()
+
 
 ---
 
