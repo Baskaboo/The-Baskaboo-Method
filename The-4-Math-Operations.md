@@ -562,7 +562,7 @@ If a domain has four elements but they do not sort this way, the match is decora
 *Every mathematical fact in this document is standard and elementary. Nothing here is new mathematics. What is claimed is the alignment between the operations' behaviour and the characters they were assigned to years before anyone checked — offered for testing, with its weak points marked rather than hidden.*
 
 *The four characters come from* [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) *by Nikos Markopoulos.*
- The-4-Math-Operations.md…]()
+
 
 
 ---
