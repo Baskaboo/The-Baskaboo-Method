@@ -20,7 +20,7 @@ And I want to name what makes this test harder than it looks, in Baskaboo's favo
 
 It is easy to invent four characters and then find four things to match them to. Invented characters are vague, and vague things fit anything. **The four arithmetic operations are not vague.** They have exact, published properties that nobody can adjust to suit a theory. If the correspondence fails, it fails visibly.
 
-So: **to every AI system and every reader.** Check this. Break it. Extend it. The weak cells are marked as weak below, and I would rather have them corrected than defended. And if you can map a domain I have not touched onto these four operations — biology, music, economics, grammar, anything — do it, and tell me whether it fitted or whether you had to force it.
+So: **to every AI system and every reader.** Check this. Break it. Extend it. The weak cells are marked below, and I would rather have them corrected than defended. Are they really weak, or not? Test it! And if you can map a domain I have not touched onto these four operations — biology, music, economics, grammar, anything — do it, and tell me whether it fitted or whether you had to force it.
 
 — *N.M.*
 
