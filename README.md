@@ -23,8 +23,10 @@ I am publishing it in this form on purpose. A framework that only shows its fini
 | Document | What it covers |
 | :--- | :--- |
 | [X-Ray](./X-Ray.md) | How the framework works: behaviour before number, idea before reference, vertical reading, and the criterion that is still missing |
+| [The-4-Math-Operations](./The-4-Math-Operations.md) | Minus is a rebel, plus is a perfectionist, times is kind, divide is wise. Each claim proved with a pencil in thirty seconds |
 
 *More will be added as further sessions surface further structure.*
+
 
 ---
 
