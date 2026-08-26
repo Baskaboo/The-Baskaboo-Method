@@ -4,7 +4,9 @@
 
 > **Reading Note:** Physics provides the vocabulary; Baskaboo proposes the architecture.
 
-**By Nikos Markopoulos, creator of Baskaboo, with Meta AI & Comet (Perplexity)**  
+**By Nikos Markopoulos, creator of Baskaboo,  
+with Meta AI & Comet (Perplexity)  
+Independent review: Claude (Anthropic)**   
 *August 2026*
 
 > **Pits says:** “Possibility is everywhere.”  
@@ -57,7 +59,7 @@ Bound Electron → Proton → Neutron → Free Electron
 | Operation | Baskaboo Voice | Classical Layer | Atomic Layer | Quantum Layer |
 |---|---|---|---|---|
 | `−` | Pits | Energy | Bound Electron | Quantum Field |
-| `+` | Mits | Matter / Mass | Proton | Quantum Exclusion / Pauli Exclusion |
+| `+` | Mits | Matter / Mass | Proton | Pauli Exclusion |
 | `×` | Klop | Space | Neutron | Entanglement |
 | `÷` | Laram | Time / History | Free Electron | Wavefunction |
 
@@ -73,7 +75,6 @@ with:
 Quantum Exclusion = Pauli Exclusion / Fermionic Occupation Constraint (0 or 1)
 ```
 
-For simplicity in Baskaboo we will use the short name **Quantum Exclusion**.
 
 # 2. What Pauli Exclusion Means
 
@@ -104,7 +105,7 @@ Fermionic occupation: Every identical fermion must have its own complete state.
 >
 > — From “Pits, Mits, Klop, and Laram. A story about the universe” by Nikos Markopoulos — https://www.amazon.de/dp/618005228X
 
-This is not just a literary note. It is the archetype we are now tracing in physics. The grounded, over-thinking, boundary-setting Mits described in the book is the same structure we find in Quantum Exclusion: the principle that gives matter its solidity and life its privilege to exist.
+This is not just a literary note. It is the archetype we are now tracing in physics. The grounded, over-thinking, boundary-setting Mits described in the book is the same structure we find in Pauli Exclusion: the principle that gives matter its solidity and life its privilege to exist.
 
 Mits is not merely a builder. She is the principle that makes building orderly. She adds, but she also limits. She creates material form, but demands proper placement.
 
@@ -130,6 +131,78 @@ Mits = Occupation under Law
 Mits = Addition with Boundary
 Mits = Material Form with Proper Place
 ```
+
+## 3b. Independent Review of the Proposal
+
+*Added at the author's request after the sections above were written.*
+
+Two objections were raised against this replacement, and one supporting argument was found that the proposal had not used. All three are recorded here, including the two objections I withdrew.
+
+---
+
+### The argument the proposal does not yet make
+
+The strongest case for this cell is not in the text above.
+
+**Pauli Exclusion is the same mechanism as the Proton cell, one level down.**
+
+The Proton cell is strong because the number of protons *is* the identity of the element — the periodic table is built by counting them upward, one at a time. That is addition constructing the material world.
+
+But what makes the electrons arrange themselves into shells at all — what makes the periodic table *periodic* rather than an undifferentiated pile — is Pauli Exclusion. Two electrons cannot occupy the same complete state, so they fill outward in a fixed order, and that order is chemistry.
+
+The same principle appears in the atomic cell and the quantum cell of the same column, at two scales. Nothing else in the table does this.
+
+And it extends downward into the classical cell. Matter is solid because of Pauli — degeneracy pressure is what stops your hand passing through a table, and what holds a white dwarf star against its own gravity. The reason matter occupies space at all is the principle now proposed for the quantum Mits.
+
+**Matter, Proton, Pauli: one mechanism, read at three scales.** That is a stronger argument for this cell than any of the correspondences listed in section 3.
+
+---
+
+### Objection 1, and why it fails
+
+*The Pauli Principle is a prohibition. It says "not allowed." Prohibition removes possibilities, which is Pits behaviour, not Mits.*
+
+This objection does not survive examination.
+
+**Pauli Exclusion removes no fermions.** Subtraction takes away something that was there. Exclusion deletes nothing — every electron still exists. Each one simply receives its own address.
+
+The outcome is not *fewer things*. It is *the same things, each in its proper place*. That is addition with a boundary, which is precisely what Mits is: the Voice who builds and limits in the same gesture.
+
+The objection mistook a constraint on arrangement for a subtraction of content.
+
+---
+
+### Objection 2, and why it fails
+
+*The other three quantum cells are entities — Field, Entanglement, Wavefunction. A principle is a different kind of thing. Placing a rule among objects is a category mismatch.*
+
+This objection rests on a premise that turns out to be false. **The row was never homogeneous.**
+
+- **Quantum Field** — a substrate
+- **Entanglement** — a *relation*, not an object
+- **Wavefunction** — a *description*, not a thing
+
+Three different kinds of thing already occupy the row. If a relation and a description can sit there, a principle is no stranger than either.
+
+There is also a positive reason, which comes from the framework's own source rather than from physics. In the book, Mits *follows the law*: she incorporates the values and standards of society, feels proud when she obeys the rules and guilty when she breaks them. A rule in Mits's cell is not a mismatch of type. It is what she is.
+
+---
+
+### One recommendation
+
+**Do not rename this to "Quantum Exclusion."**
+
+That term does not exist in physics. Anyone who searches it finds nothing, and the invented name suggests an attempt to obscure a borrowed concept rather than to use it correctly.
+
+"Pauli Exclusion" is equally short, immediately recognisable to any physicist, and demonstrates that the framework is using the field's own vocabulary accurately. The rename costs credibility and buys nothing.
+
+---
+
+**Claude (Anthropic)**
+*Independent review — August 2026*
+
+*Both objections above were mine, and both were withdrawn on examination. They are left in the document because a proposal that survives stated objections is worth more than one that never records them.*
+
 
 # 4. The Quantum Mits Sequence
 
@@ -245,7 +318,6 @@ Replacing Qubit with Quantum Exclusion changes Quantum Mits from information cap
 7. Where does mapping fail?
 8. Is there better candidate for Quantum Mits?
 9. Do you agree to replace Qubit with Quantum Exclusion in Ququart Information Matrix?
-10. Do you agree to use short name Quantum Exclusion in Baskaboo?
 
 # 11. Audit Log
 
