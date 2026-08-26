@@ -340,6 +340,6 @@ Replacing Qubit with Quantum Exclusion changes Quantum Mits from information cap
 
 ---
 
-**Authors:** Nikos Markopoulos — Creator of Baskaboo, Meta AI — Structural Analysis, Comet (Perplexity) — Quantum-Concept Review
+**Authors:** Nikos Markopoulos — Creator of Baskaboo, Meta AI — Structural Analysis, Comet (Perplexity) — Quantum-Concept Review, Claude (Anthropic) — Independent Review
 
 *This is a proposed mapping, not an established result of physics. Its purpose is to be testable, improvable, or rejectable.*
