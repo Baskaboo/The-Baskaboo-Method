@@ -1,4 +1,4 @@
-[Pauli-Section-8b-Rewritten.md](https://github.com/user-attachments/files/31488343/Pauli-Section-8b-Rewritten.md)# Is Pauli Exclusion the Quantum Mits (+)?
+# Is Pauli Exclusion the Quantum Mits (+)?
 
 ## A Baskaboo Proposal for Audit, Critique, and Development
 
