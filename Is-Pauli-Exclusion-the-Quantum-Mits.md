@@ -1,4 +1,4 @@
-# Is Pauli Exclusion the Quantum Mits (+)?
+[Pauli-Section-8b-Rewritten.md](https://github.com/user-attachments/files/31488343/Pauli-Section-8b-Rewritten.md)# Is Pauli Exclusion the Quantum Mits (+)?
 
 ## A Baskaboo Proposal for Audit, Critique, and Development
 
@@ -282,26 +282,87 @@ New Field possibility
 
 Root is not Garbage Collection. It is Filtering / Distillation: essence (quotient) retained, noise (remainder) released. With imaginary time `i`, idea becomes new energy.
 
-# 8b. Information Entropy Audit: -H, +H, +H², -H²
 
-A critical Baskaboo check is Information Entropy mapping:
+# 8b. Information State Audit: −H, +H, +H², −H²
+
+## First, what H is
+
+**H is Baskaboo's information operator. It is an interpretation of Shannon's entropy, not the function itself.**
+
+This needs saying before anything else, because the notation invites a misreading that would sink the section.
+
+- In Shannon's information theory, `H` is a measured quantity of uncertainty. **It is always positive or zero.** There is no negative Shannon entropy, because there is no negative uncertainty.
+- In Baskaboo, the sign denotes **phase inversion — a flip** — not a negative amount. `−H` is not "minus the entropy." It is H, turned over.
+- Likewise `H²` is not entropy squared. Shannon's H is measured in bits; its square would be measured in bits², which is not a quantity anyone uses. In Baskaboo the exponent marks a **level**, not an arithmetic power applied to a measurement.
+
+What Baskaboo borrowed from Shannon is real: the idea that information is a measurable quantity with a unit. What Baskaboo added — sign as inversion, exponent as level, four states in a closed cycle — is its own. None of it exists in Shannon.
+
+The four states are therefore **Baskaboo's structure applied to a borrowed idea**, and they should be read that way rather than checked against information theory's definitions.
+
+*(This clarification is also marked on the Information row of the [Magic Match Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE).)*
 
 ```
-Pits / −  = -H  (Removal / potential / negentropy)
-Mits / +  = +H  (Addition of distinct, countable information)
-Klop / ×  = +H² (Joint / mutual information)
-Laram / ÷ = -H² (Conditional / normalized information)
+Pits  / −  = −H     information inverted — potential, not yet formed
+Mits  / +  = +H     information upright — bounded, countable, placed
+Klop  / ×  = +H²    information at the squared level — relation
+Laram / ÷  = −H²    information inverted at the squared level — record
 ```
 
-Audit for Quantum Exclusion as +H:
+---
 
-- Qubit ambiguous: superposition 0 AND 1, entropy not clearly additive.
-- Occupation Number is +H: counts how many.
-- Quantum Exclusion is +H under Law: forces every fermion to distinct state (0 or 1). Prevents collapse to 1 state (which would be -H). Forces diversity, increasing structural information while imposing order. This is exactly Mits +H: addition with boundary, Think and think more.
+## Does Pauli Exclusion belong at +H?
 
-Sequence: Field (-H) → Exclusion (+H) → Entanglement (+H²) → Wavefunction (-H²) → new Field.
+An earlier version of this section argued that it does because exclusion "forces diversity, increasing structural information."
 
-We ask AIs: Does Quantum Exclusion fit +H better than Qubit?
+**That argument is backwards, and it can be checked in one calculation.**
+
+Take ten available quantum states and four particles:
+
+```
+distinguishable particles, no exclusion:  10⁴ = 10,000 arrangements
+identical fermions under Pauli:           C(10,4) = 210 arrangements
+```
+
+Exclusion does not increase the number of possible arrangements. It **cuts them by a factor of nearly fifty.**
+
+### Why this strengthens the proposal rather than weakening it
+
+Fewer available arrangements is exactly what **density** means.
+
+Baskaboo assigns Mits the highest density of the four Voices. Density is compression — the same content occupying fewer configurations. A system under Pauli Exclusion is a compressed system: the particles are still all there, but the space of ways they can be arranged has collapsed.
+
+That is not a failure of the Mits fit. It is the Mits fit, stated precisely.
+
+**The corrected argument:**
+
+> Pauli Exclusion removes no fermions. Every particle still exists. What it removes is **freedom of arrangement** — from ten thousand possibilities down to two hundred and ten. Nothing is subtracted from the content; everything is constrained in its placement.
+>
+> That is addition with a boundary, and it produces the densest possible ordering of what is present. Mits is the Voice of highest density and of order under rule. Exclusion is what density looks like at the quantum level.
+
+The `+` is correct. The reason given for it was not.
+
+---
+
+## What has been removed from this section
+
+The earlier version identified `+H²` with **mutual information** and `−H²` with **conditional entropy**.
+
+Both of those are real quantities and both exist in information theory. But neither is ever written `H²` or `−H²`, and neither is obtained by squaring an entropy. Mutual information is written `I(X;Y)`; conditional entropy is written `H(X|Y)`. The resemblance was between the *descriptions* — "joint," "conditional" — and not between the mathematics.
+
+Those identifications have been dropped rather than defended. They were the weakest claims in the document, and keeping them would have invited a reader who knows information theory to dismiss the row — and, by extension, the rest of the table.
+
+The states stand on their own as Baskaboo's structure. They do not need borrowed names to be coherent, and they are stronger without them.
+
+---
+
+## The question for reviewers
+
+Not *"is this Shannon entropy?"* — it is not, and the document no longer claims it is.
+
+The question is: **within Baskaboo's own operator, is Pauli Exclusion correctly placed at +H?**
+
+The argument offered is that exclusion compresses the arrangement space by a large factor while removing nothing from the content, and that compression is density, and that Mits is the densest of the four. If that reasoning fails, it should fail on those terms.
+
 
 # 9. What This Changes
 
