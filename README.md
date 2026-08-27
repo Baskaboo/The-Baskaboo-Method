@@ -24,6 +24,8 @@ I am publishing it in this form on purpose. A framework that only shows its fini
 | :--- | :--- |
 | [X-Ray](./X-Ray.md) | How the framework works: behaviour before number, idea before reference, vertical reading, and the criterion that is still missing |
 | [The-4-Math-Operations](./The-4-Math-Operations.md) | Minus is a rebel, plus is a perfectionist, times is kind, divide is wise. Each claim proved with a pencil in thirty seconds |
+| [Is-Pauli-Esclusion-the-Quantum-Mits](./Is-Pauli-Esclusion-the-Quantum-Mits.md) | The archetypes were described years ago, in a book, without a single equation. Those descriptions are now the criteria. Twelve quantum, atomic and classical entities were tested against them; one did not qualify, and this document finds its replacement |
+
 
 *More will be added as further sessions surface further structure.*
 
