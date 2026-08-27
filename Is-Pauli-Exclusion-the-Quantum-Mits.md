@@ -9,8 +9,52 @@ with Meta AI & Comet (Perplexity)
 Independent review: Claude (Anthropic)**   
 *August 2026*
 
-> **Pits says:** “Possibility is everywhere.”  
-> **Mits answers:** “Yes — but every real thing must have its proper place.”
+---
+
+## Introduction: The Archetype Comes First
+
+Before we look at the physics, let's look at the archetype.
+
+The description below is Mits, as she appears in the book *Pits, Mits, Klop, and Laram*. Read her first. Then see how the same archetype — the same personality, the same behaviour — appears in quantum physics as the Pauli Exclusion Principle.
+
+Physics is not the standard. The archetype is. The Magic Match Table does not bend to physics. Physics bends to the archetype.
+
+---
+
+##  Mits — The Drama Queen of Perfectionism (+)
+
+*From "Pits, Mits, Klop, and Laram. A story about the universe" by Nikos Markopoulos*
+
+Mits is my second buddy.
+
+Mits is a **material girl** living in a material world. She is an additive thinker (+), a detail freak, and a great manipulator, skillfully shaping the physical world to align with her desires. She pays great attention to every aspect of her life, ensuring that everything fits her high standards. Mits meticulously crafts her surroundings to align with her vision of perfection. While striving for excellence and order, she lacks self-confidence and has a tendency to be critical, overly self-critical, and demanding of both herself and others.
+
+Mits loves taking autumn walks under the moonlight. She has the inverse personality of Pits and is closely related to Klop. Some might say she is like a younger, more immature version of Klop.
+
+Unlike Pits, Mits is an additive thinker (+), having a complex mind and making complex thoughts. She is rational and makes decisions based on intelligent thinking rather than emotions.
+
+Mits loves making long-term plans, constantly thinking about the future and always staying several steps ahead to anticipate and prepare for potential problems.
+
+Power, money, and possessions are the most important things in life, according to Mits. But the real reason she is working hard is not to succeed or achieve something, but rather to punish herself. She feels guilt or shame and she desires to confirm negative self-perceptions. As a form of self-punishment, she intentionally engages herself in excessive and demanding workloads.
+
+Mits is dedicated to her duty, work and family. She is responsible, skillful, sharp-minded, a hard worker, multi-tasked, well organized. She likes doing nonstop analysis of everything, giving attention to detail. Above all, she is perfectionist and workaholic.
+
+Grounded with a good sense of where she is and what's around her, she is clearly located in space. She acknowledges the value of discipline and believes that it is the only way to accomplish what needs to be done. Training her mind and body, regulating her emotions, and focusing on her goals, Mits is dedicated to her personal growth and success.
+
+She requires truth and facts, with increased attention to detail and high powers of observation. Busy by nature, she is not the type to relax and laze around.
+
+Stubborn, she does not take criticism well and can sometimes come off as dominating and overbearing. Though she rarely means to, she can unintentionally hurt others' feelings.
+
+Mits **follows the law** and the standards of good behavior and she incorporates the values and morals of society. She feels proud and valuable when she obeys the rules. She feels guilty, that she is not good enough, when she breaks them.
+
+She controls and suppresses the urges and desires of Pits that are considered wrong and socially unacceptable. She often judges and controls him, complaining that he does not respect her. By being cynical towards him, she usually discriminates, accusing him of being lazy, spoiled, and foolish. However, while silently admiring him, she envies his carefree personality.
+
+She has traditional values and beliefs, supports political correctness and uses respectful language. Therefore, when confronted with Pits, who often curses, challenges the status quo, and deliberately provokes conservative ideologies and individuals, she feels extremely stressed and angry.
+
+**But we should show some respect to Mits. Don't get mad at her for sometimes being depressed, pessimistic and grumpy, because she provides structure to our world. We owe her our existence and the privilege of life.**
+
+Mits is my grounded, over-thinking self.
+~ Her motto: **Think and think more**
 
 ---
 
