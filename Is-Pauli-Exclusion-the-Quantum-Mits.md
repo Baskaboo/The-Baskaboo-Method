@@ -15,7 +15,7 @@ Independent review: Claude (Anthropic)**
 
 Before we look at the physics, let's look at the archetype.
 
-The description below is Mits, as she appears in the book *Pits, Mits, Klop, and Laram*. Read her first. Then see how the same archetype — the same personality, the same behaviour — appears in quantum physics as the Pauli Exclusion Principle.
+The description below is Mits, as she appears in the book [Pits, Mits, Klop, and Laram. A story about the universe](https://www.amazon.de/dp/618005228X). Read her first. Then see how the same archetype — the same personality, the same behaviour — appears in quantum physics as the Pauli Exclusion Principle.
 
 Physics is not the standard. The archetype is. The Magic Match Table does not bend to physics. Physics bends to the archetype.
 
