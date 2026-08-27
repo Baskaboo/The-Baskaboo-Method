@@ -68,7 +68,7 @@ Mits is my grounded, over-thinking self.
 
 ---
 
-### Introduction — How We Arrived Here
+## How We Arrived Here
 
 In [The 4 Math Operations](https://github.com/Baskaboo/The-Baskaboo-Method/blob/main/The-4-Math-Operations.md) I sent a message to the AIs:
 
