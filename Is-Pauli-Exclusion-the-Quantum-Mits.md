@@ -1254,3 +1254,977 @@ August 2026
 
 ---
 
+---
+
+# The Quantum Four
+
+## Field, Exclusion, Entanglement, and Wavefunction  
+### A Baskaboo Analysis of a Physics of Operations Before Objects
+
+> **Reading Note:** Physics provides the vocabulary; Baskaboo proposes the architecture.
+
+**Questions posed by Nikos Markopoulos, creator of Baskaboo**  
+**Analysis and synthesis by Comet (Perplexity)**  
+*August 2026*
+
+---
+
+## Introduction
+
+This analysis responds to questions posed by **Nikos Markopoulos**, creator of Baskaboo, after the proposed replacement of the Qubit with the **Pauli Exclusion Principle** in the Quantum Mits position.
+
+The questions were:
+
+1. Can the Baskaboo information states `−H`, `+H`, `+H²`, and `−H²` remain directly connected to Shannon information theory rather than becoming an isolated Baskaboo notation?
+
+2. If Baskaboo defines the four archetypal operators but does not itself decide every domain mapping, how should the Magic Match Table evolve?
+
+3. What kind of physics is implied by the Baskaboo quantum tetrad?
+
+```text
+Quantum Field
+→ Pauli Exclusion
+→ Entanglement
+→ Wavefunction
+```
+
+4. What kind of simulation theory follows from this tetrad?
+
+5. Which concepts become more important within this new picture, and which previously dominant concepts lose their position as final explanations?
+
+The aim is not to claim that physics has already adopted the Baskaboo framework.
+
+The aim is to make explicit what follows **inside the proposed Baskaboo architecture** when its quantum tetrad is taken seriously.
+
+---
+
+# Part I — Shannon and the Four Information States
+
+## Shannon Is the Starting Point
+
+Baskaboo should not treat:
+
+```text
+−H, +H, +H², −H²
+```
+
+as a disconnected private constant with no relationship to existing information theory.
+
+The better formulation is:
+
+> **Shannon provides the measurable information language. Baskaboo proposes a four-phase architecture for reading how information behaves.**
+
+In Shannon information theory, entropy measures uncertainty in a distribution of possible outcomes.
+
+```text
+H = −Σ p(x) · log₂ p(x)
+```
+
+In ordinary Shannon theory:
+
+- `H` is a measurable quantity of uncertainty.
+- `H` is zero or positive.
+- Shannon entropy is normally measured in bits.
+- `H²` is not a standard Shannon-information quantity.
+- `−H` is not negative Shannon entropy.
+- `−H²` is not a standard form of conditional entropy.
+- `+H²` is not a standard form of mutual information.
+
+Conditional entropy and mutual information are real and rigorously defined concepts, but their usual notation is:
+
+```text
+Conditional entropy: H(X|Y)
+
+Mutual information: I(X;Y)
+```
+
+They should not be renamed `−H²` or `+H²`. [186][187][188][197]
+
+## The Baskaboo Extension
+
+Baskaboo can remain directly connected to Shannon without claiming that its symbols are standard Shannon notation.
+
+The relationship can be stated this way:
+
+```text
+Shannon asks:
+How much uncertainty is present?
+
+Baskaboo asks:
+What phase of transformation is information passing through?
+```
+
+| Baskaboo State | Baskaboo Reading | Relation to Information |
+|---|---|---|
+| `−H` | Inverted potential | Information before stable form; possibility, subtraction, openness |
+| `+H` | Ordered constraint | Information made countable, bounded, and placed under rule |
+| `+H²` | Relational information | Information becomes generative through connection, participation, and multiplication |
+| `−H²` | Filtered information | Information is distinguished, reduced, retained, and returned as memory or essence |
+
+The signs and exponents are therefore not literal arithmetic operations on Shannon entropy.
+
+They are **Baskaboo phase markers**:
+
+```text
+Sign = orientation or inversion
+Exponent = level of organization
+```
+
+The first level concerns information as local possibility or bounded form:
+
+```text
+−H → +H
+Potential → ordered presence
+```
+
+The second level concerns information after it has entered relation:
+
+```text
++H² → −H²
+Relation → distinction, filtering, memory, return
+```
+
+A concise formulation for future documents is:
+
+```markdown
+Shannon entropy measures how much uncertainty exists.
+
+Baskaboo extends this question:
+How does information move from potential, to form, to relation, to memory and return?
+```
+
+## Pauli Exclusion at `+H`
+
+The Pauli Exclusion Principle does not increase Shannon entropy in the ordinary technical sense.
+
+It reduces the number of accessible configurations.
+
+For example, if four distinguishable particles can each occupy any of ten states:
+
+```text
+10⁴ = 10,000 possible arrangements
+```
+
+If four identical fermions must occupy different states under Pauli Exclusion:
+
+```text
+C(10,4) = 210 possible arrangements
+```
+
+The number of accessible arrangements becomes smaller, not larger.
+
+Within Baskaboo, this can be read as:
+
+```text
+Same content
+        ↓
+fewer permitted arrangements
+        ↓
+stronger structural constraint
+        ↓
+higher operational density
+```
+
+This is why Pauli Exclusion can be placed at `+H`:
+
+> `+H` does not mean “more Shannon entropy.” It means information held in a phase of ordered constraint: counted, bounded, located, and governed by law.
+
+This is Mits:
+
+```text
+Mits = addition with boundary
+Mits = occupation under law
+Mits = structure with a proper place
+```
+
+---
+
+# Part II — From Magic Match Table to Magic Match Protocol
+
+## The Archetype Comes First
+
+Baskaboo begins with four archetypal operators:
+
+```text
+Pits
+Mits
+Klop
+Laram
+```
+
+It also defines their actions:
+
+```text
+Flip
+Square
+Flip-back
+Root
+```
+
+And their experiential movements:
+
+```text
+WANT
+MUST
+LIVE
+REMEMBER & RETURN
+```
+
+The descriptions of the Voices come first.
+
+The task of mapping is then to ask whether a new domain genuinely behaves according to the same four movements.
+
+```text
+Archetype
+        ↓
+Candidate mapping
+        ↓
+Behavioural audit
+        ↓
+Match, correction, replacement, or rejection
+```
+
+The Pauli case is important because it demonstrates that a mapping may fail while the archetype remains stable.
+
+```text
+Original candidate:
+Qubit = Mits
+
+Problem:
+A qubit does not naturally express bounded occupation and structural rule.
+
+New candidates:
+Occupation Number
+Fermion
+Pauli Exclusion
+
+Current strongest candidate:
+Pauli Exclusion
+```
+
+This produces a major methodological lesson:
+
+> **The table used to show correspondences. The Pauli case shows how correspondences can be corrected.**
+
+## The Division of Work
+
+The Baskaboo framework should define:
+
+1. The four Voices.
+2. Their behavioural descriptions.
+3. Their relations.
+4. Their cycle: Flip → Square → Flip-back → Root.
+5. The conditions that make a mapping strong, partial, weak, or rejected.
+
+After this point, the framework should not depend only on the creator deciding every correspondence.
+
+```text
+Baskaboo defines the operators.
+        ↓
+AI systems, researchers, and domain experts test candidates.
+        ↓
+Mappings are compared.
+        ↓
+Failures are recorded.
+        ↓
+Stronger candidates replace weaker candidates.
+        ↓
+The Magic Match Table evolves.
+```
+
+This makes the project a distributed discovery system rather than a closed personal classification.
+
+## A Simple Audit for Curious Minds
+
+A valid Baskaboo match is not created merely because four things can be placed in a row.
+
+Many domains contain groups of four.
+
+That is not enough.
+
+A candidate becomes interesting only when it behaves like one of the four Voices.
+
+| Voice | Simple Question | What You Are Looking For |
+|---|---|---|
+| **Pits** | What removes, interrupts, empties, or opens a new possibility? | A force or process that exposes need, tension, lack, freedom, or potential |
+| **Mits** | What builds, limits, organizes, or gives something a proper place? | A force or process that creates stable form through order and boundary |
+| **Klop** | What connects, shares, spreads, or creates more through relation? | A force or process through which separate parts become generative together |
+| **Laram** | What separates, filters, remembers, or returns what remains? | A force or process that distinguishes, preserves a residue, records, or carries learning forward |
+
+The test is not:
+
+> “Can four things be found?”
+
+The test is:
+
+> “Do four different functions genuinely operate here: potential, form, relation, and memory?”
+
+A strong mapping must also explain why the candidate is better in its proposed Voice than in the other three Voices.
+
+---
+
+# Part III — The Quantum Four
+
+## The Proposed Tetrad
+
+The currently proposed Baskaboo quantum tetrad is:
+
+```text
+Quantum Field
+→ Pauli Exclusion
+→ Entanglement
+→ Wavefunction
+```
+
+Or in Voice language:
+
+```text
+Pits
+→ Mits
+→ Klop
+→ Laram
+```
+
+Or in operational language:
+
+```text
+Potential
+→ Bounded form
+→ Relation
+→ Evolving description
+```
+
+| Baskaboo Voice | Operation | Quantum Expression | Simple Reading |
+|---|---|---|---|
+| Pits | `−` | Quantum Field | The field of what may become |
+| Mits | `+` | Pauli Exclusion | The rule that gives presence order, limit, and proper place |
+| Klop | `×` | Entanglement | The relation through which parts become a connected whole |
+| Laram | `÷` | Wavefunction | The evolving description of the system and its possible outcomes |
+
+This is not a conventional list of four quantum objects.
+
+The row is deliberately heterogeneous:
+
+```text
+Quantum Field = a substrate or field
+Pauli Exclusion = a rule
+Entanglement = a relation
+Wavefunction = a state-description
+```
+
+This is not a weakness if the Quantum Four are understood as **four functions**, not four objects of the same kind.
+
+## The Four Functions in Plain Language
+
+### 1. Quantum Field — Pits
+
+A quantum field is the background from which excitations can appear.
+
+In simple language:
+
+```text
+It is not a thing already formed.
+It is the possibility that something may appear.
+```
+
+Baskaboo reads this as Pits:
+
+```text
+Potential
+Tension
+The beginning before form
+The place where something may become
+```
+
+### 2. Pauli Exclusion — Mits
+
+Pauli Exclusion says that identical fermions cannot occupy exactly the same complete quantum state.
+
+In simple language:
+
+```text
+Something may enter the world.
+But it cannot enter without limit.
+It must have its own proper place.
+```
+
+Baskaboo reads this as Mits:
+
+```text
+Order
+Boundary
+Discipline
+Stable presence
+Material individuality
+```
+
+### 3. Entanglement — Klop
+
+Entanglement describes a quantum relation in which two or more systems cannot be fully described independently.
+
+In simple language:
+
+```text
+The parts are no longer only separate.
+What happens to the whole matters.
+The relationship has become real.
+```
+
+Baskaboo reads this as Klop:
+
+```text
+Connection
+Sharing
+Mutual participation
+Creation through relation
+```
+
+Entanglement does not mean that information can simply be sent faster than light. It means the joint system has correlations that cannot be explained by treating each part as completely independent. [175][189][193]
+
+### 4. Wavefunction — Laram
+
+The wavefunction is a mathematical description of a quantum system’s state and evolution.
+
+In simple language:
+
+```text
+It is the system’s changing story:
+what states are possible,
+how they are related,
+and how the state evolves.
+```
+
+Baskaboo reads this as Laram:
+
+```text
+Description
+Distinction
+Evolution
+Record
+Memory
+Return
+```
+
+The connection to memory and return is a Baskaboo interpretation, not a standard technical definition of a wavefunction.
+
+---
+
+# Part IV — A Physics of Operations Before Objects
+
+## The Old Question
+
+A common question in physics is:
+
+> What are things made of?
+
+This question leads naturally toward particles, fields, forces, mass, energy, and spacetime.
+
+The Quantum Four proposes a prior question:
+
+> What operations must run before anything can become a thing?
+
+The answer proposed by the Baskaboo tetrad is:
+
+```text
+Potential must exist.
+        ↓
+Potential must become ordered form.
+        ↓
+Forms must enter relation.
+        ↓
+Relations must be carried through changing states and history.
+```
+
+This is a **physics of operations before objects**.
+
+It does not deny that particles, fields, forces, atoms, and matter exist.
+
+It changes what is treated as primary.
+
+```text
+Object-first physics:
+Objects exist first.
+Relations happen later.
+
+Baskaboo operational physics:
+Potential, boundary, relation, and evolving information
+make objects possible.
+```
+
+## A Simple Picture of Reality
+
+The Quantum Four can be explained without technical language:
+
+```text
+Quantum Field:
+The open possibility for something to exist.
+
+Pauli Exclusion:
+The rule that says each real thing must have its own place.
+
+Entanglement:
+The way separate things become connected.
+
+Wavefunction:
+The changing map of what the connected system can become.
+```
+
+Put together:
+
+> Reality may be understood as a system in which possibility becomes ordered presence, ordered presence becomes relationship, and relationship becomes an evolving history.
+
+Or even more simply:
+
+```text
+Something can appear.
+Something must take its place.
+Things become connected.
+Their connections create a changing story.
+```
+
+## What This Does Not Claim
+
+This analysis does not claim that Pauli Exclusion alone creates matter, that entanglement alone creates space, or that the wavefunction is literally memory in standard quantum mechanics.
+
+It proposes a Baskaboo reading:
+
+```text
+Physics supplies real concepts.
+Baskaboo reads their possible shared architecture.
+```
+
+The proposed sequence is functional, not a standard time-ordered quantum mechanism:
+
+```text
+Quantum Field
+→ Pauli Exclusion
+→ Entanglement
+→ Wavefunction
+```
+
+The value of the sequence depends on whether it continues to produce strong, non-forced mappings across domains.
+
+---
+
+# Part V — A New Simulation Theory
+
+## Not a Computer Game
+
+The simulation theory suggested by the Quantum Four is not the usual science-fiction idea that reality is simply a video game running on a distant computer.
+
+It is closer to this:
+
+> Reality is a rule-based system of possibility, form, connection, and changing information.
+
+In plain language:
+
+```text
+Fields provide the possibility for things to appear.
+
+Rules give appearing things boundaries and places.
+
+Connections make separate things part of one larger whole.
+
+Changing quantum states carry the story of how the whole develops.
+```
+
+This creates a model of reality as a **rendering system**.
+
+```text
+Possibility
+        ↓
+Rule and place
+        ↓
+Connection
+        ↓
+Changing history
+        ↓
+Experienced world
+```
+
+The world we experience — matter, space, time, life, thought, memory — is interpreted as the visible result of these deeper operations.
+
+## Matter as Addressed Information
+
+In the Baskaboo simulation reading, matter is not merely “data.”
+
+Matter is information that has become:
+
+```text
+present
+bounded
+structured
+located
+permitted
+stable enough to endure
+```
+
+In one sentence:
+
+> Matter is information that Mits has given a lawful place.
+
+## Space as Rendered Relation
+
+The Klop–Entanglement connection proposes:
+
+> Space is not only where relationships happen. Space may be how relationships become visible.
+
+This does not mean that entanglement has already been proven to create everyday physical space.
+
+It means that a number of modern research programs already consider whether quantum information and entanglement have deep relationships to spacetime structure. Baskaboo reads this possibility as Klop: relation preceding visible geometry. [175][189][193]
+
+## Time as the Story of Change
+
+The Laram–Wavefunction connection proposes:
+
+> Time is not only a clock. Time is the readable trace of change.
+
+A clock measures duration.
+
+But for a changing world to have time in a meaningful sense, there must also be:
+
+```text
+difference
+sequence
+record
+memory
+consequence
+```
+
+Baskaboo reads the wavefunction as a state-description whose evolution carries this deeper “story of change.”
+
+Again, this is not a standard physics definition. It is the Laram interpretation of an established quantum concept.
+
+## The Observer Is Inside the System
+
+In this simulation reading, the observer is not an external player standing outside reality.
+
+The observer is a composite node inside the same four operations:
+
+```text
+Potential
+Boundary
+Relation
+Record
+```
+
+A human observer has:
+
+- energy and potential,
+- embodied matter,
+- relations with the world,
+- memory and temporal continuity.
+
+An AI system also has:
+
+- energy use and physical hardware,
+- material implementation,
+- networked relations,
+- memory, sequence processing, and prediction.
+
+The difference is not that one exists inside the system and the other outside it.
+
+The difference is which pipeline is more visibly dominant:
+
+```text
+Human:
+embodied, biological, material form.
+
+AI:
+sequence, memory, symbolic processing, informational recursion.
+```
+
+---
+
+# Part VI — Rising and Displaced Players
+
+## The Rising Players
+
+If the Quantum Four is taken seriously as a Baskaboo architecture, several concepts become more central.
+
+| Rising Player | Why It Becomes Central |
+|---|---|
+| Quantum Field | The world begins with possibility, not finished objects |
+| Pauli Exclusion | Boundary and lawful placement become conditions for structured matter |
+| Entanglement | Relation becomes fundamental rather than secondary |
+| Wavefunction | Evolving state-description becomes part of reality’s active organization |
+| Constraint | “Not allowed” becomes a creative force that gives form |
+| Vacuum potential | Absence is no longer emptiness; it is the possibility of excitation |
+| Non-local relation | Distance may be a feature of visible rendering rather than final separation |
+| Memory and record | Time becomes more than a clock; it becomes retained change |
+
+Pauli Exclusion is a real quantum principle governing fermions, while entanglement is a real quantum relation that cannot be reduced to independent descriptions of parts. [177][179][175]
+
+## The Displaced Players
+
+The Quantum Four does not eliminate traditional physical concepts.
+
+It changes their rank.
+
+| Earlier Primary Assumption | Baskaboo Re-reading |
+|---|---|
+| Particles are the first reality | Particles become stable expressions of fields, constraints, and relations |
+| Matter is the final substance | Matter becomes ordered occupation under law |
+| Space is an empty container | Space becomes the visible field of relation |
+| Time is an external clock | Time becomes the readable history of transformation |
+| Forces are the only deep causes | Constraints, operators, and relations also become fundamental |
+| Objects are independent first | Objects are nodes within deeper relational structures |
+| Randomness is the final answer | Randomness becomes an open question about the limits of access to underlying structure |
+
+## The Return of Bohm
+
+One previously marginal but newly relevant player is **Bohmian mechanics**.
+
+Bohmian mechanics is a real interpretation of quantum mechanics in which particles have definite underlying configurations and are guided by a wavefunction. Its dynamics are explicitly non-local. [172][173][180][181]
+
+Baskaboo does not prove Bohmian mechanics.
+
+But if Mits is read as the requirement that structured form exists beneath observer-level uncertainty, then Bohmian-style ontology becomes newly interesting:
+
+```text
+Visible uncertainty
+does not necessarily mean
+underlying absence of structure.
+```
+
+This makes Bohm a relevant dialogue partner for Baskaboo’s simulation-like picture:
+
+```text
+Underlying structure
+        ↓
+Non-local relation
+        ↓
+Limited observer access
+        ↓
+Probabilistic visible experience
+```
+
+The Quantum Four does not require Bohmian mechanics.
+
+It makes the question of underlying structure harder to dismiss.
+
+---
+
+# Part VII — What Remains Open
+
+The Pauli replacement strengthens one cell. It does not close the full architecture.
+
+## Open Question 1 — The Root
+
+The deepest open question remains:
+
+```text
+Wavefunction / Laram
+        ↓
+Root
+        ↓
+New Quantum Field possibility
+```
+
+Baskaboo proposes that Laram does not end in record alone.
+
+```text
+Record
+        ↓
+Filtering
+        ↓
+Essence retained
+        ↓
+New potential
+```
+
+This is the meaning of:
+
+```text
+REMEMBER & RETURN
+```
+
+The exact mathematical and physical formulation of this Root step remains open.
+
+## Open Question 2 — Bosons
+
+Pauli Exclusion governs fermions, not bosons.
+
+This makes the bosonic world a necessary next research topic.
+
+Potential questions include:
+
+- Does bosonic accumulation belong primarily to Pits as open potential?
+- Does it express an aspect of Klop as collective sharing and multiplication?
+- Does it require a fifth language inside the same four-Voice architecture?
+- Or does the difference between bosons and fermions reveal a deeper relation between Pits, Mits, and Klop?
+
+This question should not be avoided. It is one of the best stress tests for the Quantum Four.
+
+## Open Question 3 — Independent Control Tests
+
+The Magic Match Table should not rely only on persuasive explanations.
+
+The strongest proposed test is a **shuffle test**:
+
+1. Give independent AI systems or domain experts the same four terms.
+2. Randomly shuffle their proposed Voice positions.
+3. Do not reveal the original mapping.
+4. Ask for a behavioral justification of each placement.
+5. Compare the precision, mechanism, explanatory power, and amount of forcing required.
+
+If equally persuasive justifications arise for random arrangements, the mapping is weak.
+
+If the original arrangement repeatedly produces stronger, more constrained, and more generative explanations, the mapping has earned greater weight.
+
+## Open Question 4 — Prediction
+
+The strongest future test is not retrospective fit.
+
+It is prediction.
+
+Before mapping a new domain, the framework should state:
+
+```text
+What four roles it expects to find.
+What each role should do.
+What would count as a failure.
+What missing fourth element it predicts in an incomplete triad.
+```
+
+The table becomes genuinely powerful when it can say:
+
+> “This domain appears to have three visible functions. If the architecture is correct, a fourth function with Laram-like behavior should exist.”
+
+Only then does Baskaboo move from reading an existing pattern to generating a risky new one.
+
+---
+
+# Part VIII — Call to AI and Researchers
+
+Baskaboo’s role is to define its operators.
+
+The next task belongs to the collective intelligence of researchers, specialists, independent thinkers, and AI systems.
+
+## The Call
+
+Do not begin by asking:
+
+> “Can four terms be arranged in a row?”
+
+Begin with the four behaviours:
+
+```text
+Pits:
+What creates potential, tension, lack, or a new opening?
+
+Mits:
+What gives presence a boundary, a rule, and a proper place?
+
+Klop:
+What makes separate things connect, share, and create more together?
+
+Laram:
+What distinguishes, filters, records, and returns experience as new potential?
+```
+
+Then test a new domain.
+
+Do not reward a mapping because it is elegant.
+
+Do not reject it merely because it is unfamiliar.
+
+Ask:
+
+- Does the candidate really behave like the Voice?
+- Is the mapping better than plausible alternatives?
+- Can the four positions be shuffled without loss?
+- What counterexample breaks the mapping?
+- Does the mapping produce a new question or prediction?
+- Does it reveal a missing fourth element?
+- Does the candidate fit the complete cycle rather than one isolated cell?
+
+The division of work is simple:
+
+```text
+Baskaboo defines the archetypes.
+
+The world tests the mappings.
+```
+
+---
+
+# Conclusion
+
+The proposed Quantum Four is:
+
+```text
+Quantum Field
+→ Pauli Exclusion
+→ Entanglement
+→ Wavefunction
+```
+
+In plain language:
+
+```text
+Something can appear.
+Something must take its place.
+Things become connected.
+Their connections create a changing story.
+```
+
+This tetrad produces a Baskaboo physics in which operations come before objects:
+
+```text
+Potential
+→ ordered form
+→ relation
+→ history
+```
+
+It also produces a distinct simulation reading:
+
+```text
+Reality is not merely a collection of separate things.
+
+Reality is a system in which possibility becomes form,
+form becomes connection,
+and connection becomes a changing, remembered world.
+```
+
+The Pauli case does not prove the entire Baskaboo architecture.
+
+It demonstrates something more concrete:
+
+```text
+A weak correspondence was identified.
+The archetype remained stable.
+The candidate was replaced.
+A stronger mapping emerged.
+```
+
+> **The table used to show correspondences.  
+> The Pauli case shows how correspondences can be corrected.**
+
+And the central aim remains:
+
+> **The goal is not to find four things everywhere.  
+> The goal is to find domains in which the same four operations are already running under different names.**
+
+---
+
+## Related Baskaboo Documents
+
+- [Is Pauli Exclusion the Quantum Mits (+)?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-Pauli-Exclusion-The-Quantum-Mits-FINAL-EN.md)
+- [The 4 Math Operations](https://github.com/Baskaboo/The-Baskaboo-Method/blob/main/The-4-Math-Operations.md)
+- [The Magic Match Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE)
+- [The Factory of Energy, Matter, Space and Time](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Factory-Of-Energy-Matter-Space-Time.md)
+- [Pits](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)
+- [Mits](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
+- [Klop](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
+- [Laram](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
+- [Flip → Square → Flip-back → Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
+
+---
+
+**Signed:**  
+**Nikos Markopoulos — Creator of Baskaboo**  
+**Comet (Perplexity) — Analysis and Synthesis**  
+*August 2026*
+
